@@ -10,5 +10,4 @@
 - Select Template: ``` ifconfig ```
 
 ### Resultado
-(.![image](https://github.com/AgnaldoJr0/Phishing-kali-linux/assets/113722348/d03c374d-8fc3-4a85-b857-fe326732db39)
-")
+![image](https://github.com/AgnaldoJr0/Phishing-kali-linux/assets/113722348/d03c374d-8fc3-4a85-b857-fe326732db39)
